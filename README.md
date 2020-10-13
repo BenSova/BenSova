@@ -2,8 +2,6 @@
 
 I'm Ben Sova, a developer trying to make you get the most use (and you) out of your Apple Devices.
 
-I am currently making a macOS Big Sur Patcher so you can run macOS 11 on your unsupported Mac. Soon, I'll have a website where you can learn all about it, but that's once I'm far enough to do that. If you have any questions about Patched Sur, feel free to DM me on [Reddit](https://reddit.com/u/BenSova).
-
 <!--
 **BenSova/BenSova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
