@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi, I'm BenSova
 
-I'm Ben Sova, a developer trying to make you get the most use (and you) out of your Apple Devices.
+I'm a SwiftUI developer trying to make you get the most use (and you) out of your Apple Devices.
+
+Currently I'm working on an app that allows you to run macOS Big Sur on your unsupported Mac. This works best on 2012 ans 2013 Macs to prolong the lifetime of your Mac. It's called **Patched Sur** and you can learn more about it [here](https://github.com/BenSova/Patched-Sur).
+
+Right now **Patched Sur** still needs a lot of refinements and featurrs, but it's a great start for what I have right now, and I'm sure it will become greater.
 
 <!--
 **BenSova/BenSova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
