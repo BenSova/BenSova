@@ -12,16 +12,15 @@ Most of my work is done on the weekends in my free time, but I work on the weekd
 
 <h3 align=center> Patched Sur Roadmap </h3>
 
-1. Add **updating** fuctionality to the post install app. (Coming in v0.1.0!)
-2. Add **clean install** functionality to the pre install app.
-3. **Rewrite Patch Kexts** to better fit the UI scheme.
-4. **A WHOLE LOT OF POLISHING**
+1. Add **clean install** functionality to the pre install app.
+2. **Rewrite Patch Kexts** to better fit the UI scheme.
+3. **A WHOLE LOT OF POLISHING**
 
 <h3 align=center> What do I daily drive? </h3>
 
 It would be crazy for me, the developer of a patcher, not to be using an unsupported Mac as my daily driver. So, I do! I use a Mid-2012 MacBook Pro for all of my laptop needs, like working in Xcode or Final Cut Pro. Suprisingly, Big Sur really does run great on that Mac (Apple should of supported it, even with the WiFi and CPU discontinuations)! Technically this is both my primary Mac and my testing Mac, so I might need to be a little bit more careful, but who really does that? Did I forget to mention that the thing thinks it is a 16" 2019 MacBook Pro?
 
-My iPhone is of course another old device, a simple iPhone 6s, that's running iOS 14.2 (I know right, not the beta). However, once again, there's a twist, my phone is jailbroken with Odysseyra1n. Who would have thought, a jailbroken phone and a patched Mac? *And of course I have another old device*, my Apple Watch Series 0! (Wait, can I jailbreak that thing too?)
+My iPhone is of course another old device, a simple iPhone 6s, that's running iOS 14.2 (I know right, not the beta). However, once again, there's a twist, my phone is jailbroken with Unc0ver. Who would have thought, a jailbroken phone and a patched Mac? *And of course I have another old device*, my Apple Watch Series 0! (Wait, can I jailbreak that thing too?)
 
 <h3 align=center> My GitHub Stats </h3>
 
